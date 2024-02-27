@@ -1,5 +1,7 @@
 # JeuPersonnage
 
+Voici mon TP jeupersonnage :
+
 package Personnage;
 public class Personnage{
         public Personnage (String name, int life){
